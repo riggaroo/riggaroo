@@ -1,8 +1,6 @@
-![](riggaroo-header.gif)
+### Hi! 👋
 
-### Hi there 👋
-
-My name is Rebecca Franks, I'm a Principal Android Engineer at GoDaddy, currently working on Over, which is a digital design app. I am also a Google Developer Expert for Android.
+My name is Rebecca, I'm a Principal Android Engineer at GoDaddy, currently working on Over, which is a digital design app. I am also a Google Developer Expert for Android.
 
 I've been working on Android for over 8 years and I really enjoy making beautiful apps 💚 
 
