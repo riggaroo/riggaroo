@@ -1,4 +1,4 @@
-<img src="./riggaroo-header.gif" width="100%"/>
+<img src="riggaroo-header.gif" width="100%"/>
 
 ### Hi there 👋
 
