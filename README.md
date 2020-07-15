@@ -1,4 +1,4 @@
-<img src="riggaroo-header.gif" width="100%"/>
+![](riggaroo-header.gif)
 
 ### Hi there 👋
 
