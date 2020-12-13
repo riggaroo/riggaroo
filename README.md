@@ -1,25 +1,16 @@
 ### Hi! 👋
 
-My name is Rebecca, I'm a Principal Android Engineer at GoDaddy, currently working on Over, which is a digital design app. I am also a Google Developer Expert for Android.
+My name is Rebecca, I'm a Principal Android Engineer at GoDaddy and the Android Guild Lead, currently working on Over, which is a digital design app. I am also a Google Developer Expert for Android.
 
-I've been working on Android for over 8 years and I really enjoy making beautiful apps 💚 
+I've been working on Android for over 8 years and I really enjoy making beautiful Android Apps. You will often find me blogging about Graphics, Animation, Architecture. Before this whole global pandemic thing, I also spoke at conferences and enjoyed travelling the world. Now I'm cooped up at home in Johannesburg, South Africa, awaiting the day this is a reality again. 
 
 Follow my blog at https://riggaroo.dev to find my tutorials and other random musings. 
 
-Twitter: https://twitter.com/riggaroo
 LinkedIn: https://www.linkedin.com/in/rebeccafranks/
 
-<!--
-**riggaroo/riggaroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the Over Android App that was acquired by GoDaddy.
+- 🌱 I’m currently learning lots of OpenGL, its a scary, dark place on the internet. 
+- 📫 How to reach me: On Twitter https://twitter.com/riggaroo
+- 😄 Pronouns: She / Her
+- ⚡ Fun fact: I love baking and exploring learning new baking skills. 
